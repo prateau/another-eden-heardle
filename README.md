@@ -1,4 +1,6 @@
-  # another-eden-heardle
+# :no_entry: [DEPRECATED] Active at https://github.com/prateau-heardle/another-eden-heardle
+
+# another-eden-heardle
 
 A clone of [Heardle](https://www.heardle.app/), and [K-Pop Heardle](https://heardle-kpop.glitch.me/) but for Another Eden mucis. Based on [Joywave Heardle](https://joywave-heardle.glitch.me/)
 
